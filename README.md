@@ -1,3 +1,8 @@
+> **Atlas-Agent · AtlasHub.SI integration track** · [Atlas product context](ATLAS.md) · [Legal and support](LEGAL.md)  
+> Curated through [SergioMonteiro-Atlas](https://github.com/sergiomonteiro-atlas); derived from [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent). Original authorship and [MIT license](LICENSE) remain in force. This is an Atlas **integration**, not a claim that the source software originated at AtlasHub.SI.
+
+---
+
 <p align="center">
   <img src="assets/banner.png" alt="Hermes Agent" width="100%">
 </p>
